@@ -1,1 +1,1 @@
-# chown
+# chown command in linux
