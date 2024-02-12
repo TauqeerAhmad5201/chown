@@ -12,4 +12,4 @@ For ex:
 
 Helps in changing the owner.
 
-Owner added using the
+Owner added using the command.
