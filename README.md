@@ -2,7 +2,7 @@
 
 ``sudo chown root <filename>``
 
-Changing the owner helps
+Changing the owner helps in changing the access and scope.
 
 For ex: 
 
