@@ -2,6 +2,7 @@
 
 ``sudo chown root <filename>``
 
+Changing the owner helps
 
 For ex: 
 
